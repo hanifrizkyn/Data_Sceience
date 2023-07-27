@@ -1,4 +1,4 @@
-# Data_Sceience-Kmeans
+# Data_Sceience
 Understand the customers beheviour to help a credit card company using Kmeans
 
 #Objective
