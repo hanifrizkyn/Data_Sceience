@@ -1,5 +1,5 @@
 # Data_Sceience
-Understand the customers beheviour to help a credit card company using Kmeans
+Understand the customers beheviour to help a credit card company
 
 #Objective
 This type of data set requires customer segmentation to understand the customers beheviour to help a credit card company.
